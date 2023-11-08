@@ -23,3 +23,5 @@ conda activate myenv
 streamlit run chatbot.py
 ```
 
+## 📷 결과화면
+<img src="https://github.com/jebomin/Chatbot_DatabaseProject/assets/42407430/07f4e654-254f-4cd3-a23f-b8245104f4df">

@@ -17,7 +17,7 @@ pip install scikit-learn==1.3.2
 ```
 
 ### 2. 실행
-visual studio code에서 해당 파일을 다운로드 받은 후 터미널에 다음 명령어 입력\n
+visual studio code에서 해당 파일을 다운로드 받은 후 터미널에 다음 명령어 입력</br>
 ```bash
 conda activate myenv
 streamlit run chatbot.py

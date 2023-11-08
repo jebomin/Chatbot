@@ -8,16 +8,16 @@
 
 ## ▶️ 실행 방법
 ### 1. 필요한 api 설치
-'''cmd
+'''bash
 pip install streamlit==1.28.1
 pip install steamlit-chat==0.1.1
 pip install pandas==2.1.2
 pip install sentence-transformers==2.2.2
 pip install scikit-learn==1.3.2
-'''
+
 ### 2. 실행
 visual studio code에서 해당 파일을 다운로드 받은 후 터미널에 다음 명령어 입력
-'''python
+'''bash
 conda activate myenv
 streamlit run chatbot.py
-'''
+

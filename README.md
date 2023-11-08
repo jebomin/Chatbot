@@ -8,6 +8,7 @@
 
 ## ▶️ 실행 방법
 ### 1. 필요한 api 설치
+아나콘다 프롬포트에서 가상환경 생성 후 설치</br>
 ```bash
 pip install streamlit==1.28.1
 pip install steamlit-chat==0.1.1
